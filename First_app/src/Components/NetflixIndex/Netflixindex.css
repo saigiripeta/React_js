@@ -1,0 +1,13 @@
+
+
+
+.container-fluid {
+  background-image: url("bg1.png");
+   background-size: 100% ;       /* Fit to width, auto height */
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 100vw;                     /* Full screen width */
+  height: 100vh;                    /* Full screen height (adjust if needed) */
+  overflow: none;  
+}
+
